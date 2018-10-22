@@ -1,0 +1,29 @@
+{{ define "main" }}
+<main>
+  <p>special projects template</p>
+
+  <h1>{{ .Title }}</h1>
+  {{ .Content }}
+
+  <p>Projekte aus `data/projects`</p>
+  <ul>
+    {{ range $project := .Site.Data.projects}}
+    <li>
+      <h2>{{$project.name}}</h2>
+      <p>{{$project.teaser}}</p>
+      <h3>Ansprechpartner*innen</h3>
+
+      {{ $pl := $project.project_lead }}
+
+      {{ range $team :=  $.Site.Data.team }}
+        {{ if eq $team.img $pl}}
+          {{$team.name}}<br>
+          {{$team.mail}}
+          <img src="/team/{{$team.img}}_square.jpg" alt="" width="80" height="80">
+        {{ end}}
+      {{ end }}
+    </li>
+    {{ end }}
+  </ul>
+</main>
+{{ end }}

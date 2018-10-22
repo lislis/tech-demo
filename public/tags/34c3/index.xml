@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>34c3 on Technical Demo</title>
+    <link>http://example.org/tags/34c3/</link>
+    <description>Recent content in 34c3 on Technical Demo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 07 Jan 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://example.org/tags/34c3/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>34C3: Unsere Highlights</title>
+      <link>http://example.org/blog/2018/2018-01-08-34c3-rueckblick/</link>
+      <pubDate>Sun, 07 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/blog/2018/2018-01-08-34c3-rueckblick/</guid>
+      <description>Wie jedes Jahr war die Open Knowledge Foundation auch 2017 wieder zum Jahresende beim Chaos Communication Congress. Neben Workshops zu Rette-Deinen-Nahverkehr, Edulabs, OParl, EITI und Jugend Hackt gab es auch wieder den traditionellen FragDenStaat-Vortrag:
+Schreibtisch-Hooligans Informationsfreiheit trotz CSU  Wie umgehen mit politischer Ohnmacht? Das Informationsfreiheitsgesetz bietet einige Ansätze: Es macht es auch für juristische Laien möglich, gegen Behörden vorzugehen, die das Recht brechen. Wir kämpfen gegen die Ohnmacht: Dieses Jahr haben wir alle Gesetzentwürfe aller Bundesministerien und Lobby-Stellungnahmen dazu befreit.</description>
+    </item>
+    
+  </channel>
+</rss>

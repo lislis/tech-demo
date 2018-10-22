@@ -1,0 +1,21 @@
+{{ define "main" }}
+<main>
+  <p>special team template</p>
+
+  <h1>{{ .Title }}</h1>
+  {{ .Content }}
+
+  <p>Team aus `data/team.yml`</p>
+  <ul>
+    {{ range .Site.Data.team}}
+      {{if .staff }}
+    <li>
+      {{.name}}<br>
+      {{.mail}}<br>
+      <img src="/team/{{.img}}_square.jpg" alt="{{.img}}" width="80" height="80">
+    </li>
+{{ end }}
+    {{ end }}
+  </ul>
+</main>
+{{ end }}

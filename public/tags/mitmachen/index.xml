@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mitmachen on Technical Demo</title>
+    <link>http://example.org/tags/mitmachen/</link>
+    <description>Recent content in Mitmachen on Technical Demo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 17 May 2017 11:30:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://example.org/tags/mitmachen/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Projektstart Edulabs: Offene Bildung zusammen entwickeln</title>
+      <link>http://example.org/blog/2017/2017-05-17-edulabs-offene-bildung/</link>
+      <pubDate>Wed, 17 May 2017 11:30:00 +0000</pubDate>
+      
+      <guid>http://example.org/blog/2017/2017-05-17-edulabs-offene-bildung/</guid>
+      <description>Nach ersten Planungstreffen startet unser Bildungsprojekt edulabs nun mit monatlichen Public Calls (Mi. 17.5., 17:00). In den letzten Wochen ist bereits viel geschehen: Es gibt erste Kooperationen, eine vorläufige Website und vor allem: Das edulab Berlin hat bereits einen Raum.
+Was sind die edulabs und was haben wir vor?
+Wir organisieren regelmäßige Workshops und Treffen in den Regionen Berlin, Baden-Württemberg und NRW. Ziel ist es, mit digital gestützten Methoden offene Bildung voranzubringen, um eine Kultur der Partizipation in Schulen zu stärken.</description>
+    </item>
+    
+  </channel>
+</rss>

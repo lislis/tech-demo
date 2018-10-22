@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lbhb on Technical Demo</title>
+    <link>http://example.org/tags/lbhb/</link>
+    <description>Recent content in Lbhb on Technical Demo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 13 Jul 2017 00:10:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://example.org/tags/lbhb/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Öffentliche Ankündigung: Das Open-Data-Gesetz ist in Kraft</title>
+      <link>http://example.org/blog/2017/2017-07-13-open-data-gesetz-tritt-in-kraft/</link>
+      <pubDate>Thu, 13 Jul 2017 00:10:00 +0000</pubDate>
+      
+      <guid>http://example.org/blog/2017/2017-07-13-open-data-gesetz-tritt-in-kraft/</guid>
+      <description>Gut Ding will Weile haben. Nachdem es im Mai im Bundestag beschlossen wurde und im Juni durch den Bundesrat ging, wurde das Open-Data-Gesetz gestern endlich im Bundesgesetzblatt verkündet.
+Das Gesetz firmiert offiziell unter dem Titel Erstes Gesetz zur Änderung des E-Government-Gesetzes. Eine kurze inhaltliche Zusammenfassung findet sich hier.
+Nochmals vielen Dank an alle Beteiligten!</description>
+    </item>
+    
+  </channel>
+</rss>

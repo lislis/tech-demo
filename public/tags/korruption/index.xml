@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Korruption on Technical Demo</title>
+    <link>http://example.org/tags/korruption/</link>
+    <description>Recent content in Korruption on Technical Demo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 13 Feb 2017 14:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://example.org/tags/korruption/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Das Transparenzregister kommt - wird es wirklich transparent?</title>
+      <link>http://example.org/blog/2017/2017-02-14-transparenzregister/</link>
+      <pubDate>Mon, 13 Feb 2017 14:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/blog/2017/2017-02-14-transparenzregister/</guid>
+      <description>Morgen entscheidet das Bundeskabinett über das Transparenzregister. Die Regierung macht damit einen entscheidenden Schritt im Kampf gegen Korruption und Steuerhinterziehung: Nach einer Richtlinie der Europäischen Union wird das Register die wirtschaftlichen Eigentümer aller Unternehmen und Stiftungen in Deutschland auflisten.
+Ob das Register wirksam ist, hängt allerdings entscheidend von der Offenheit der Daten ab: Anders als ursprünglich vorgesehen plant das Finanzministerium, die Daten der Eigentümer nur Personen mit “berechtigtem Interesse” zugänglich zu machen und alle Menschen zu protokollieren, die auf die Daten zugreifen.</description>
+    </item>
+    
+  </channel>
+</rss>

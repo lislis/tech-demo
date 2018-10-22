@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Termine on Technical Demo</title>
+    <link>http://example.org/tags/termine/</link>
+    <description>Recent content in Termine on Technical Demo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 28 Jun 2017 07:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://example.org/tags/termine/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Roboter, Comics, Prototypen - Das erste FamilienLabor im FEZ-Berlin startet am 16. Juli</title>
+      <link>http://example.org/blog/2017/2017-06-28-erstes-familienlabor/</link>
+      <pubDate>Wed, 28 Jun 2017 07:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/blog/2017/2017-06-28-erstes-familienlabor/</guid>
+      <description>Was hilft Familien dabei, ihren Alltag besser zu organisieren? Wie lassen sich Familie und Beruf besser vereinbaren? Und welche technologischen Werkzeuge können uns hierbei helfen? Um diese und andere Fragen geht es beim ersten FamilienLabor Deutschlands. Familienmitglieder und Technologieexpertinnen und -experten können dabei gemeinsam einen Tag lang praktische Lösungen für den konkreten Familienalltag entwickeln. Eine Wartezimmer-App? Ein Pizzabutton? In Form von verrückten Workshopformaten mit Comics, Mini-Robotern, Klick/Papierprototypen und Fotolovestories wird alles möglich!</description>
+    </item>
+    
+  </channel>
+</rss>

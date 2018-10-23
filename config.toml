@@ -5,13 +5,20 @@ theme = "okf"
 
 
 [mediaTypes]        
-[mediaTypes."application/atom"]
-suffixes = ["xml"]
+  [mediaTypes."application/atom"]
+    suffixes = ["xml"]
+  [mediaTypes."application/json"]
+    suffixes = ["json"]
 
-[outputFormats.Atom]
-mediaType = "application/atom"
-baseName = "atom"
-isPlainText = false
+[outputFormats]
+  [outputFormats.Atom]
+    mediaType = "application/atom"
+    baseName = "atom"
+    isPlainText = false
+  [outputFormats.Json]
+    mediaType = "application/json"
+    baseName = "section"
+  
 
 [outputs]
-section = [ "HTML", "Atom" ]
+section = [ "HTML", "Atom", "Json" ]

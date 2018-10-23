@@ -1,7 +1,8 @@
-baseURL = "http://example.org/"
+baseURL = "https://lislis.github.io/tech-demo"
 languageCode = "de-DE"
 title = "Technical Demo"
 theme = "okf"
+publishDir = "docs"
 
 [mediaTypes]        
   [mediaTypes."application/atom"]

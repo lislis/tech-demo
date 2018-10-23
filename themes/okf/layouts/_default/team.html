@@ -7,7 +7,7 @@
 
   <p>Team aus `data/team.yml`</p>
   <ul>
-    {{ range .Site.Data.team}}
+    {{ range $.Site.Data.team}}
       {{if .staff }}
     <li>
       {{.name}}<br>

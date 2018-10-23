@@ -2,3 +2,16 @@ baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "Technical Demo"
 theme = "okf"
+
+
+[mediaTypes]        
+[mediaTypes."application/atom"]
+suffixes = ["xml"]
+
+[outputFormats.Atom]
+mediaType = "application/atom"
+baseName = "atom"
+isPlainText = false
+
+[outputs]
+section = [ "HTML", "Atom" ]

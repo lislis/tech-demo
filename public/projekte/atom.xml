@@ -1,0 +1,12 @@
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Unsere Projekte on Technical Demo</title>
+  <link rel="self" href="http://example.org/projekte/"/>
+  <updated>0001-01-01T00:00:00+0000</updated>
+  <author>
+    <name>YOUR NAME HERE</name>
+    <email>YOUR EMAIL ADDRESS</email>
+    <uri>DEFINITIVE URI OF YOUR WEB SITE</uri>
+  </author>
+  <id>http://example.org/projekte/</id>
+  
+</feed>

@@ -2,6 +2,7 @@ baseURL = "https://morning-depths-27469.herokuapp.com/"
 languageCode = "de-DE"
 title = "Technical Demo"
 theme = "okf"
+defaultContentLanguage = "de"
 
 [mediaTypes]        
   [mediaTypes."application/atom"]
@@ -17,6 +18,16 @@ theme = "okf"
   [outputFormats.Json]
     mediaType = "application/json"
     baseName = "index"
+
+[languages]
+  [languages.de]
+    title = "OKF"
+    languageName = "DE" 
+    weight = 1
+  [languages.en]
+    title = "OKF DE"
+    languageName = "EN"
+    weight = 2
   
 [outputs]
 home = ["HTML", "Json"]

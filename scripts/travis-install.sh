@@ -23,5 +23,4 @@ fi
 # Extract the binary in the working directory
 echo "\n-----> Extracting Hugo ${HUGO_VERSION} binaries to ${BUILD_DIR}"
 mkdir -p $CACHE_DIR/$RELEASE_NAME
-tar -zxvf $CACHE_DIR/$FILE_NAME -C $CACHE_DIR
-mv $CACHE_DIR $BUILD_DIR/hugo
+tar -zxvf $CACHE_DIR/$FILE_NAME -C $BUILD_DIR

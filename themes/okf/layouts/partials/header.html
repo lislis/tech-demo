@@ -5,8 +5,20 @@
   <a href="/themen">Themen</a>
   <a href="/team">Team</a>
   <a href="/blog">Blog</a>
-  <a href="#">DE</a> |
-  <a href="#">EN</a>
+  {{ if .IsTranslated }}
+  <span class="LangNav">
+    {{ range .Translations }}
+    <a href="{{ .Permalink }}">{{ .Language.LanguageName }}</a>
+    {{ end}}
+  </span>
+  {{ end }}
+
+
+  <ul>
+    {{ range $.Site.Home.AllTranslations }}
+    <li><a href="{{ .Permalink }}">{{ .Language.LanguageName }}</a></li>
+    {{ end }}
+  </ul>
   <div class="search">
     <noscript>Die Suche benötigt JavaScript!</noscript>
     <button id="search-button" type="button">🔍</button>

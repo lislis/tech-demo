@@ -36,8 +36,17 @@ searchButton.addEventListener('click', function(event) {
 var searchData;
 searchInput.addEventListener('keyup', lunrSearch, true);
 
+function indexJsonPath() {
+  if (window.location.pathname.match(/blog/) !== null) {
+    return '/blog/index.json';
+  } else {
+    return '/index.json';
+  }
+}
+
 var searchReq = new XMLHttpRequest();
-searchReq.open('GET', '/blog/section.json', true);
+
+searchReq.open('GET', indexJsonPath(), true);
 searchReq.onload = function() {
   if (this.status >= 200 && this.status < 400) {
     console.log("Got the site index");
@@ -47,9 +56,8 @@ searchReq.onload = function() {
       this.field('id');
       this.field('url');
       this.field('title', { boost: 50 });
-      this.field('subtitle');
-      this.field('description');
-      this.field('tags', { boost: 30});
+      this.field('summary', { boost: 20 });
+      this.field('tags', { boost: 10});
       this.field('content', { boost: 10 });
 
       searchData.forEach(function(obj, index) {
@@ -86,12 +94,20 @@ function displayResults(results) {
     searchResults.innerHTML = '';
     results.forEach(function(result) {
       var item = window.searchData[result.ref];
-      var section = [item.section.split('')[0].toUpperCase(),
-                     item.section.split('').splice(1).join('')].join('');
       var appendString = '<li class="search-result">';
       appendString += '<h4><a href="'+ item.url +'">'+ item.title +'</a></h4>';
-      appendString += '<p>In '+ section +'</p>';
-      appendString += '<ul class="tags">'+ item.tags.map(x => x) +'</ul></li>';
+      if (item.section) {
+        var section = [item.section.split('')[0].toUpperCase(),
+                       item.section.split('').splice(1).join('')].join('');
+        appendString += '<p>In '+ section +'</p>';
+      }
+      if (item.tags) {
+        appendString += '<ul class="tags">'+ item.tags.map(x => x) +'</ul>';
+      }
+      if (item.summary) {
+        appendString += '<p>'+ item.summary +'</p>';
+      }
+      appendString += '</li>';
       searchResults.innerHTML += appendString;
     });
   } else {

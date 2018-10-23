@@ -1,8 +1,7 @@
 baseURL = "http://example.org/"
-languageCode = "en-us"
+languageCode = "de-DE"
 title = "Technical Demo"
 theme = "okf"
-
 
 [mediaTypes]        
   [mediaTypes."application/atom"]
@@ -17,8 +16,8 @@ theme = "okf"
     isPlainText = false
   [outputFormats.Json]
     mediaType = "application/json"
-    baseName = "section"
+    baseName = "index"
   
-
 [outputs]
+home = ["HTML", "Json"]
 section = [ "HTML", "Atom", "Json" ]

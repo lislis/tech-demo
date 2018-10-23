@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pressemitteilung on Technical Demo</title>
+    <link>https://lislis.github.io/tech-demo/tags/pressemitteilung/</link>
+    <description>Recent content in Pressemitteilung on Technical Demo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-DE</language>
+    <lastBuildDate>Thu, 26 Jan 2017 07:30:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://lislis.github.io/tech-demo/tags/pressemitteilung/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Neues Open-Data-Gesetz: Zu schwach, zu schwammig, zu spät</title>
+      <link>https://lislis.github.io/tech-demo/blog/2017/2017-01-26-odgesetz-pm/</link>
+      <pubDate>Thu, 26 Jan 2017 07:30:00 +0000</pubDate>
+      
+      <guid>https://lislis.github.io/tech-demo/blog/2017/2017-01-26-odgesetz-pm/</guid>
+      <description>Berlin, 26.01.2017 - Das Bundeskabinett hat gestern das Open-Data-Gesetz beschlossen, das zu einer Offenlegung von Daten im Bestand der Bundesbehörden führen soll. Der Gesetzentwurf ist aber unausgegoren: Anstatt in der Debatte um falsche Medienberichterstattung (“Fake News”) auf die verpflichtende Veröffentlichung harter Fakten zu setzen, hat sich die Bundesregierung auf einen Minimalkonsens geeinigt. Viele Behörden werden kaum neue Daten veröffentlichen.
+Arne Semsrott, Projektleiter Open Knowledge Foundation: “Das Gesetz droht zum ineffektiven Bürokratiemonster zu werden.</description>
+    </item>
+    
+  </channel>
+</rss>

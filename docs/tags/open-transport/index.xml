@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Open Transport on Technical Demo</title>
+    <link>https://lislis.github.io/tech-demo/tags/open-transport/</link>
+    <description>Recent content in Open Transport on Technical Demo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-DE</language>
+    <lastBuildDate>Mon, 17 Apr 2017 12:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://lislis.github.io/tech-demo/tags/open-transport/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Und es bewegt sich doch: Beim öffentlichen Nahverkehr</title>
+      <link>https://lislis.github.io/tech-demo/blog/2017/2017-04-17-update-offene-nahverkehrsdaten/</link>
+      <pubDate>Mon, 17 Apr 2017 12:00:00 +0000</pubDate>
+      
+      <guid>https://lislis.github.io/tech-demo/blog/2017/2017-04-17-update-offene-nahverkehrsdaten/</guid>
+      <description>Seit dem Launch unserer Plattform rettedeinennahverkehr.de gibt es einige erfreuliche Entwicklungen:
+Im Bundestag wurde das Thema vom Bundestagsabgeordneten Thomas Jarzombek auf die Tagesordnung gebracht:
+{% youtube pmvkwoiFwHc?t=85&amp;amp; %}
+Der Verkehrsverbund Rhein-Sieg (VRS) gibt nun seine Fahrplandaten als GTFS heraus. Auch der Aachener Verkehrsverbund (AVV) gibt Daten heraus - und lizenziert sie als &amp;lsquo;gemeinfrei&amp;rsquo;.
+In Antworten auf RetteDeinenNahverkehr-Anfragen kündigte der Münchner MVV Planungen für ein eigenes Open-Data-Portal an - und auch der Hamburger HVV hat festgestellt, dass einzelne Verträge für die Datenbereitstellung zu aufwändig sind und wird die Daten in den kommenden Monaten öffnen.</description>
+    </item>
+    
+    <item>
+      <title>Rette deinen Nahverkehr: Hilf mit, Fahrplandaten zu befreien</title>
+      <link>https://lislis.github.io/tech-demo/blog/2017/2017-03-08-rettedeinennahverkehr/</link>
+      <pubDate>Wed, 08 Mar 2017 17:30:00 +0000</pubDate>
+      
+      <guid>https://lislis.github.io/tech-demo/blog/2017/2017-03-08-rettedeinennahverkehr/</guid>
+      <description>Deine Nahverkehrsapp nervt? Braucht zu lange zum Starten und du fragst dich, warum du in London eine bessere Auskunft bekommst als hier?
+Dann ist es Zeit für rettedeinennahverkehr.de. Gemeinsam machen wir unsere Landrät*innen und Oberbürgermeister*innen darauf aufmerksam, dass sie in ihrem Verkehrsverbund tatsächlich etwas bewegen können - indem sie die Fahrplandaten als Open Data für alle bereitstellen.
+Zugegeben – der öffentliche Nahverkehr hat noch viele andere Probleme. Er ist chronisch unterfinanziert, in kleinteilige Verbundgebiete zersplittert und hängt der technischen Entwicklung oft mehrere Jahre hinterher.</description>
+    </item>
+    
+  </channel>
+</rss>

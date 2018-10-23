@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ifg on Technical Demo</title>
+    <link>https://lislis.github.io/tech-demo/tags/ifg/</link>
+    <description>Recent content in Ifg on Technical Demo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-DE</language>
+    <lastBuildDate>Fri, 04 May 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://lislis.github.io/tech-demo/tags/ifg/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>1. IFG-Meisterschaften: Wer wird Deutschlands Transparenzsieger?</title>
+      <link>https://lislis.github.io/tech-demo/blog/2018/2018-05-04-ifg-meisterschaften/</link>
+      <pubDate>Fri, 04 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://lislis.github.io/tech-demo/blog/2018/2018-05-04-ifg-meisterschaften/</guid>
+      <description>Das wird ein heißer Sommer! Wir senden an alle Bundesministerien Anfragen nach dem Informationsfreiheitsgesetz (IFG). Wer zuerst antwortet, kommt in die nächste Runde. Wer gewinnt die ersten IFG-Meisterschaften Deutschlands?
+So lasset die Spiele beginnen! Wir haben die ersten IFG-Meisterschaften Deutschlands ins Leben gerufen. Das Prinzip: Wir stellen allen Bundesministerien die gleiche Anfrage nach einem Dokument. Wer zuerst antwortet, kommt eine Runde weiter! Der Behörden-Gewinnerin der IFG-Meisterschaften winkt ein besonderer Preis: Ein FragDenStaat-Hoodie!</description>
+    </item>
+    
+    <item>
+      <title>OKFDE auf der re:publica 18</title>
+      <link>https://lislis.github.io/tech-demo/blog/2018/2018-04-26-republica18/</link>
+      <pubDate>Thu, 26 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://lislis.github.io/tech-demo/blog/2018/2018-04-26-republica18/</guid>
+      <description>Vom 2. - 4. Mai findet die größte Konferenz der digitalen Gesellschaft re:publica in Berlin statt. Auch in diesem Jahr sind wir mit zahlreichen Talks vertreten. Hier eine kleine Übersicht der von uns organisierten Sessions! Fall ihr da seid, kommt doch vorbei:
+Wohin mit der Informationsfreiheit in Deutschland? Johannes Filter, Nadine Stammen, Stefan Wehrmeyer Mittwoch 02.05.2018 18:30 - 19:30 Meetup 2
+Die Zahlen der Politik Anna Alberts, Michael Peters Donnerstag 3.</description>
+    </item>
+    
+  </channel>
+</rss>

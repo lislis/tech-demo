@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nahverkehr on Technical Demo</title>
+    <link>https://lislis.github.io/tech-demo/tags/nahverkehr/</link>
+    <description>Recent content in Nahverkehr on Technical Demo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-DE</language>
+    <lastBuildDate>Thu, 26 Apr 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://lislis.github.io/tech-demo/tags/nahverkehr/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>EU-Vorschlag zur Überarbeitung der PSI-Richtlinie</title>
+      <link>https://lislis.github.io/tech-demo/blog/2018/2018-04-26-eu-vorschlag-zur-%C3%BCberarbeitung-der-psi-richtlinie/</link>
+      <pubDate>Thu, 26 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://lislis.github.io/tech-demo/blog/2018/2018-04-26-eu-vorschlag-zur-%C3%BCberarbeitung-der-psi-richtlinie/</guid>
+      <description>Die EU hat den Vorschlag zur Überarbeitung der Richtlinie über die Weiterverwendung von Informationen des öffentlichen Sektors (PSI-Richtlinie) veröffentlicht. Sie ist auch bekannt als Open Data-Richtline.
+Die Überarbeitung ist ein Schritt in die richtige Richtung, aber geht nicht weit genug. Die notwendigen Hinweis auf Echtzeitdaten und die Ausweitung der Diskussion auf Versorgungs- und Verkehrsunternehmen sowie der öffentlich finanzierten Forschung ist begrüßenwert, jedoch fehlen die konkreten und zeitnahen Umsetzungsmaßnahmen.
+Zum Beispiel wird der Verkehrssektor durch die delegierte Verordnung (EU) Nr.</description>
+    </item>
+    
+    <item>
+      <title>Zentrale Bereitstellung EU-weiter multimodaler Reiseinformationsdienste</title>
+      <link>https://lislis.github.io/tech-demo/blog/2018/2018-01-31-multimodale-reiseinformationsdienste/</link>
+      <pubDate>Wed, 31 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://lislis.github.io/tech-demo/blog/2018/2018-01-31-multimodale-reiseinformationsdienste/</guid>
+      <description>Am 31.01.18 fand im BMVI ein Dialogforum zur zentralen Bereitstellung EU-weiter multimodaler Reiseinformationsdienste statt. Hintergrund dafür ist die delegierte Verordnung (EU) Nr. 2017&amp;frasl;1926 welche am 10.11.2017 in Kraft getreten ist. Das Ziel dieser Verordnung ist die Verbesserung der Zugänglichkeit und des Austausches von Reise und Verkehrsdaten sowie derer Aktualisierung.
+Dies betrifft Personenverkehrdienste im Luft-, Schienen- und Straßenverkehr, in der Binnenschifffahrt oder Kombinationen davon. Der Wirkungsbereich bezieht das gesamte Streckennetz einschließlich urbaner Knoten ein.</description>
+    </item>
+    
+    <item>
+      <title>Und es bewegt sich doch: Beim öffentlichen Nahverkehr</title>
+      <link>https://lislis.github.io/tech-demo/blog/2017/2017-04-17-update-offene-nahverkehrsdaten/</link>
+      <pubDate>Mon, 17 Apr 2017 12:00:00 +0000</pubDate>
+      
+      <guid>https://lislis.github.io/tech-demo/blog/2017/2017-04-17-update-offene-nahverkehrsdaten/</guid>
+      <description>Seit dem Launch unserer Plattform rettedeinennahverkehr.de gibt es einige erfreuliche Entwicklungen:
+Im Bundestag wurde das Thema vom Bundestagsabgeordneten Thomas Jarzombek auf die Tagesordnung gebracht:
+{% youtube pmvkwoiFwHc?t=85&amp;amp; %}
+Der Verkehrsverbund Rhein-Sieg (VRS) gibt nun seine Fahrplandaten als GTFS heraus. Auch der Aachener Verkehrsverbund (AVV) gibt Daten heraus - und lizenziert sie als &amp;lsquo;gemeinfrei&amp;rsquo;.
+In Antworten auf RetteDeinenNahverkehr-Anfragen kündigte der Münchner MVV Planungen für ein eigenes Open-Data-Portal an - und auch der Hamburger HVV hat festgestellt, dass einzelne Verträge für die Datenbereitstellung zu aufwändig sind und wird die Daten in den kommenden Monaten öffnen.</description>
+    </item>
+    
+    <item>
+      <title>Rette deinen Nahverkehr: Hilf mit, Fahrplandaten zu befreien</title>
+      <link>https://lislis.github.io/tech-demo/blog/2017/2017-03-08-rettedeinennahverkehr/</link>
+      <pubDate>Wed, 08 Mar 2017 17:30:00 +0000</pubDate>
+      
+      <guid>https://lislis.github.io/tech-demo/blog/2017/2017-03-08-rettedeinennahverkehr/</guid>
+      <description>Deine Nahverkehrsapp nervt? Braucht zu lange zum Starten und du fragst dich, warum du in London eine bessere Auskunft bekommst als hier?
+Dann ist es Zeit für rettedeinennahverkehr.de. Gemeinsam machen wir unsere Landrät*innen und Oberbürgermeister*innen darauf aufmerksam, dass sie in ihrem Verkehrsverbund tatsächlich etwas bewegen können - indem sie die Fahrplandaten als Open Data für alle bereitstellen.
+Zugegeben – der öffentliche Nahverkehr hat noch viele andere Probleme. Er ist chronisch unterfinanziert, in kleinteilige Verbundgebiete zersplittert und hängt der technischen Entwicklung oft mehrere Jahre hinterher.</description>
+    </item>
+    
+  </channel>
+</rss>

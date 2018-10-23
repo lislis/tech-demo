@@ -1,0 +1,23 @@
+.search {
+  display: inline;
+}
+
+.search-form {
+  visibility: hidden;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: lightgrey;
+}
+
+.search-form.open {
+  visibility: visible;
+}
+
+#site-seach {}
+#close-search {}
+#search-input {}
+#search-button {}
+#search-results {}

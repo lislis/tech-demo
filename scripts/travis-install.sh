@@ -1,7 +1,7 @@
 #!/bin/sh
 
-BUILD_DIR=~/travis/tech-demo
-CACHE_DIR=~/cache/
+BUILD_DIR=~/tech-demo
+CACHE_DIR=~/cache
 
 # Default Hugo version
 DEFAULT_HUGO_VERSION="0.49.2"

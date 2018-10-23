@@ -1,0 +1,15 @@
+language: go
+cache:
+  - "~/cache"
+go:
+  - master
+before_install:
+  - scripts/travis-install.sh
+script:
+  - scripts/travis-script.sh
+deploy:
+  provider: heroku
+  api_key:
+    secure: VJeG7hgEvqLVtIFIwJrvqry7kkft8ua3nn/5PpQ7w8Av0sVOEZVf36sPA9Y1wN+CJrq4PDzHz6meRIHDNOpzz9teylgAkvz38jQ1hYh2MiqmWO9jWQ1XpKBozqCuRGWeTh8ZBRgEhI56skzc3eR6jQ20uwsxHsKUJBPWM3YQygUwxzOI1SOHHcrcl3l1S2fooGgoBUq1qIcs1iHtaiQsmbbCmB89UKtkPMgBVZPUjYu3AmeRRCkZA1zkYRLxSvhY/JQ0qyuyOS1PIhSUPZoSFDhyFUt7cF57YxoLj4b6zgKfu70eLVKVEtvpRv6nkm8CFDAW4d0ynxpzPM6OIjau5pv1eMjICa8SsZYHe75gd6HFxj5hqeux5BlhsrioU7tcsKmz8P/eeYhoD4oE6MNYL2qXV8YeOYtpWu4/POxPG+JrhZCTlwMgDaL/1nrmZ+vTfTVjhfEwNAU8pTc/ZN4VRCQrum8nb8Wy+P1dwFjl0XlDbZO6Xn7W377mjqF8E5zm3CxHb63+V95F3ixPb8f2FCewkJfmk5sh/nvYJnw08egmjISnph8Miqc82T7T7XIOFFIqr1SdWqHY1k7DDt1tDOxu3d5axtfLxPDVAVKxHH66fn6kR4i+Jmgcq0DmLGNWJW1s9dVsRmIpxLqxvivbT12cT/LZtCf07Ck88lgV5rI=
+  app: morning-depths-27469
+  on: master

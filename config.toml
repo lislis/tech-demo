@@ -1,8 +1,7 @@
-baseURL = "https://lislis.github.io/tech-demo"
+baseURL = "https://morning-depths-27469.herokuapp.com/"
 languageCode = "de-DE"
 title = "Technical Demo"
 theme = "okf"
-publishDir = "docs"
 
 [mediaTypes]        
   [mediaTypes."application/atom"]
